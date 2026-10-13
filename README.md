@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Priya HP
 
 ### Support Engineer | BCA Graduate | Technology Enthusiast
 
@@ -147,9 +147,9 @@ Bachelor of Computer Applications
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-- Email: your-email@example.com
+- GitHub: https://github.com/priyahp146/Priyahp
+- LinkedIn: https://linkedin.com/in/Priya-hp
+- Email: priyahp146@gmail.com
 
 ---
 
